@@ -1,0 +1,67 @@
+C:\Users\Alex\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Alex\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Alex\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Alex\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Alex\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Alex\Desktop\tic-tac-toe-alex\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Alex\Desktop\tic-tac-toe-alex\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Alex\Desktop\tic-tac-toe-alex\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Alex\Desktop\tic-tac-toe-alex\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Alex\Desktop\tic-tac-toe-alex\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\tic-tac-toe-alex\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Alex\Desktop\tic-tac-toe-alex\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Alex\Desktop\tic-tac-toe-alex\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\anderson.vallejo\Downloads\2089809607_material-aforge\material-aforge\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\anderson.vallejo\Downloads\2089809607_material-aforge\material-aforge\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\IA pra Jogos\2089809607_material-aforge\material-aforge\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\IA pra Jogos\2089809607_material-aforge\material-aforge\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\IA pra Jogos\2089809607_material-aforge\material-aforge\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\IA pra Jogos\2089809607_material-aforge\material-aforge\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\IA pra Jogos\2089809607_material-aforge\material-aforge\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\IA pra Jogos\2089809607_material-aforge\material-aforge\jogo-da-velha-parcial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\IA pra Jogos\2089809607_material-aforge\material-aforge\jogo-da-velha-parcial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\IA pra Jogos\2089809607_material-aforge\material-aforge\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\IA pra Jogos\2089809607_material-aforge\material-aforge\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\IA pra Jogos\2089809607_material-aforge\material-aforge\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\IA pra Jogos\2089809607_material-aforge\material-aforge\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+G:\IA pra Jogos\2089809607_material-aforge\material-aforge\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\IA pra Jogos\2089809607_material-aforge\material-aforge\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\GenerateResource.read.1.tlog
+G:\IA pra Jogos\2089809607_material-aforge\material-aforge\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\GenerateResource.write.1.tlog
+G:\IA pra Jogos\2089809607_material-aforge\material-aforge\jogo-da-velha-parcial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\IA pra Jogos\2089809607_material-aforge\material-aforge\jogo-da-velha-parcial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\IA pra Jogos\2089809607_material-aforge\material-aforge\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Tamillys\Desktop\dsktp\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Tamillys\Desktop\dsktp\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tamillys\Desktop\dsktp\jogo-da-velha-parcial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Tamillys\Desktop\dsktp\jogo-da-velha-parcial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tamillys\Desktop\dsktp\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Tamillys\Desktop\dsktp\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Tamillys\Desktop\dsktp\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Tamillys\Desktop\dsktp\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\Aplaudo\Arquivos\BACKUP HD CRIS\SUPETAMY\Desktop\stff\BCKP TAMY [pcthays]\Desktop\dsktp\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\Aplaudo\Arquivos\BACKUP HD CRIS\SUPETAMY\Desktop\stff\BCKP TAMY [pcthays]\Desktop\dsktp\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\Aplaudo\Arquivos\BACKUP HD CRIS\SUPETAMY\Desktop\stff\BCKP TAMY [pcthays]\Desktop\dsktp\jogo-da-velha-parcial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\Aplaudo\Arquivos\BACKUP HD CRIS\SUPETAMY\Desktop\stff\BCKP TAMY [pcthays]\Desktop\dsktp\jogo-da-velha-parcial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\Aplaudo\Arquivos\BACKUP HD CRIS\SUPETAMY\Desktop\stff\BCKP TAMY [pcthays]\Desktop\dsktp\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\Aplaudo\Arquivos\BACKUP HD CRIS\SUPETAMY\Desktop\stff\BCKP TAMY [pcthays]\Desktop\dsktp\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+G:\Aplaudo\Arquivos\BACKUP HD CRIS\SUPETAMY\Desktop\stff\BCKP TAMY [pcthays]\Desktop\dsktp\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Aplaudo\Arquivos\BACKUP HD CRIS\SUPETAMY\Desktop\stff\BCKP TAMY [pcthays]\Desktop\dsktp\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Tamillys\Desktop\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Tamillys\Desktop\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tamillys\Desktop\jogo-da-velha-parcial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Tamillys\Desktop\jogo-da-velha-parcial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tamillys\Desktop\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Tamillys\Desktop\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Tamillys\Desktop\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Tamillys\Desktop\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Tamillys\Documents\GitHub\JogodaVelhaRNA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Tamillys\Documents\GitHub\JogodaVelhaRNA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tamillys\Documents\GitHub\JogodaVelhaRNA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Tamillys\Documents\GitHub\JogodaVelhaRNA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Tamillys\Documents\GitHub\JogodaVelhaRNA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Tamillys\Documents\GitHub\JogodaVelhaRNA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Tamillys\Documents\GitHub\JogodaVelhaRNA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Tamillys\Documents\GitHub\JogodaVelhaRNA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

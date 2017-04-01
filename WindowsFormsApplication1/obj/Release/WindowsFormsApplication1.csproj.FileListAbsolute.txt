@@ -1,0 +1,33 @@
+E:\IA pra Jogos\2089809607_material-aforge\material-aforge\jogo-da-velha-parcial\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+E:\IA pra Jogos\2089809607_material-aforge\material-aforge\jogo-da-velha-parcial\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+E:\IA pra Jogos\2089809607_material-aforge\material-aforge\jogo-da-velha-parcial\WindowsFormsApplication1\bin\Release\AForge.Controls.dll
+E:\IA pra Jogos\2089809607_material-aforge\material-aforge\jogo-da-velha-parcial\WindowsFormsApplication1\bin\Release\AForge.dll
+E:\IA pra Jogos\2089809607_material-aforge\material-aforge\jogo-da-velha-parcial\WindowsFormsApplication1\bin\Release\AForge.Neuro.dll
+E:\IA pra Jogos\2089809607_material-aforge\material-aforge\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+E:\IA pra Jogos\2089809607_material-aforge\material-aforge\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+E:\IA pra Jogos\2089809607_material-aforge\material-aforge\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\IA pra Jogos\2089809607_material-aforge\material-aforge\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+E:\IA pra Jogos\2089809607_material-aforge\material-aforge\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+E:\IA pra Jogos\2089809607_material-aforge\material-aforge\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Tamillys\Desktop\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Tamillys\Desktop\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\Tamillys\Desktop\jogo-da-velha-parcial\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Tamillys\Desktop\jogo-da-velha-parcial\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Tamillys\Desktop\jogo-da-velha-parcial\WindowsFormsApplication1\bin\Release\AForge.Controls.dll
+C:\Users\Tamillys\Desktop\jogo-da-velha-parcial\WindowsFormsApplication1\bin\Release\AForge.dll
+C:\Users\Tamillys\Desktop\jogo-da-velha-parcial\WindowsFormsApplication1\bin\Release\AForge.Neuro.dll
+C:\Users\Tamillys\Desktop\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Tamillys\Desktop\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Tamillys\Desktop\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Tamillys\Desktop\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Tamillys\Desktop\dsktp\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Tamillys\Desktop\dsktp\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\Tamillys\Desktop\dsktp\jogo-da-velha-parcial\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Tamillys\Desktop\dsktp\jogo-da-velha-parcial\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Tamillys\Desktop\dsktp\jogo-da-velha-parcial\WindowsFormsApplication1\bin\Release\AForge.Controls.dll
+C:\Users\Tamillys\Desktop\dsktp\jogo-da-velha-parcial\WindowsFormsApplication1\bin\Release\AForge.dll
+C:\Users\Tamillys\Desktop\dsktp\jogo-da-velha-parcial\WindowsFormsApplication1\bin\Release\AForge.Neuro.dll
+C:\Users\Tamillys\Desktop\dsktp\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Tamillys\Desktop\dsktp\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Tamillys\Desktop\dsktp\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Tamillys\Desktop\dsktp\jogo-da-velha-parcial\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
